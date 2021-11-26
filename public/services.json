@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "CARDIOLOGY",
+        "price": "2000",
+        "description": "CARDIOLOGY is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart.",
+        "img": "https://i.ibb.co/tZzRGKF/g1.jpg"
+    },
+    {
+        "id": 2,
+        "name": "RADIOLOGY",
+        "price": "3000",
+        "description": "RADIOLOGY is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart.",
+        "img": "https://i.ibb.co/Lrb19P1/g3.jpg"
+    },
+    {
+        "id": 3,
+        "name": "DENTAL",
+        "price": "4000",
+        "description": "DENTAL is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart.",
+        "img": "https://i.ibb.co/bs6yswB/g2.jpg"
+    },
+    {
+        "id": 4,
+        "name": "DERMITOLOGY",
+        "price": "5000",
+        "description": "DERMITOLOGY is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart.",
+        "img": "https://i.ibb.co/KW6dYqz/g4-1.jpg"
+    },
+    {
+        "id": 5,
+        "name": "NEUROLOGY",
+        "price": "6000",
+        "description": "NEUROLOGY is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart.",
+        "img": "https://i.ibb.co/61HgNLM/g4.jpg"
+    },
+    {
+        "id": 6,
+        "name": "PEDIATRICS",
+        "price": "3500",
+        "description": "PEDIATRICS is a branch of medicine that deals with the disorders of the heart as well as some parts of the circulatory system. The field includes medical diagnosis and treatment of congenital heart.",
+        "img": "https://i.ibb.co/XC9wm4W/g5.jpg"
+    }
+]
